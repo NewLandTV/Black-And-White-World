@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c68c0df68e72ab4a82d8829d9bc85d8, type: 3}
+  m_Name: Tutorial
+  m_EditorClassIdentifier: 
+  titleName: To The World Of Darkness And Light
+  iconSprite: {fileID: 21300000, guid: b3b66861868031e4eaf45846c78070ea, type: 3}
+  stages:
+  - {fileID: 11400000, guid: 9270e61e6da2e0947b52eb0d5065f982, type: 2}
+  - {fileID: 11400000, guid: 5b7410e849e88504a9c924a9bf438d5e, type: 2}
+  - {fileID: 11400000, guid: 1d57c9825aa72704d93f1d6ce47161aa, type: 2}

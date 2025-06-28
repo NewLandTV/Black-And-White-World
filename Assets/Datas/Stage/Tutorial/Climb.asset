@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55c7d458d58ea5847af58087730708a6, type: 3}
+  m_Name: Climb
+  m_EditorClassIdentifier: 
+  stageID: 102
+  message: Hey, climbing master?
+  icon: {fileID: 419860095, guid: 0414adc39c328e94b997e4a247bed77c, type: 3}
+  config: {fileID: 471262359185729490, guid: 361f20095f6d2114c80c974fa56eb0b9, type: 3}
+  darkMode: 0

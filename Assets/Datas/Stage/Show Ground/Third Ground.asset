@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55c7d458d58ea5847af58087730708a6, type: 3}
+  m_Name: Third Ground
+  m_EditorClassIdentifier: 
+  stageID: 202
+  message: Big and Small
+  icon: {fileID: 1993446955, guid: 5a04bcd9ad9f69e4d93ef96762638258, type: 3}
+  config: {fileID: 3137887347847340190, guid: 42fab0d3da1808a4c964fbbd5388e1f9, type: 3}
+  darkMode: 0
