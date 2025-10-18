@@ -114,10 +114,10 @@ public class Player : MonoBehaviour
 
     private void Move()
     {
-        float y = rigidbody.velocity.y;
+        float y = rigidbody.linearVelocity.y;
         Vector2 velocity = new Vector2(velocityX, y);
 
-        rigidbody.velocity = velocity;
+        rigidbody.linearVelocity = velocity;
     }
 
     private void Jump()
